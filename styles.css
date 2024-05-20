@@ -1,4 +1,35 @@
-html {
-    background-color: moccasin;
+body {
+    background-color: #fcd581;
+    margin-top:auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
+
+h1,
+h2,
+h3 {
+    color: #464D77;
+}
+
+p,
+ul,
+ol {
+    color: #990D35;
+    font-size: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 48px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 
