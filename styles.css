@@ -13,6 +13,11 @@ h3 {
     color: #464D77;
 }
 
+a {
+    color: blue;
+    font-style: italic;
+}
+
 p,
 ul,
 ol {
