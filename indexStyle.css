@@ -1,0 +1,55 @@
+body {
+    background-color: #fcd581;
+    font-family: Papyrus, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    box-sizing: border-box;
+    color: #464D77;
+    background-color: #e4a621;
+    padding: 24px 36px;
+    font-size: 30px;
+    width: 550px;
+    border: #990D35 double;
+    border-width: 6px;
+    border-bottom-style: none;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+a {
+    color:#464D77;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.recipeContainer {
+    width: 550px;
+    padding: 24px 36px;
+    box-sizing: border-box;
+    border-style:double;
+    border-width: 6px;
+    border-color: #990D35;
+    text-decoration: underline;
+    background-color: #f5c662;
+}
+
+.rOne {
+    margin-bottom: 36px;
+    width: 200px;
+    display: inline-block;
+    padding-right: 42px;
+    text-decoration: underline;
+}
+
+.rTwo {
+    display: inline;
+    margin-bottom: 8px;
+    width: 200px;
+}
+
+.rThree {
+    width: 400px;
+    text-align: center;
+    margin-left: 24px;
+}
